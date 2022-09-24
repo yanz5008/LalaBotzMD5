@@ -244,6 +244,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`KannaChan`](https://github.com/kannachann)
 * [`LeonGanz`](https://github.com/LeonGantengz)
 * [`Yanz_5008`](https://github.com/yanz5008)
+* [`JayaBali`](https://github.com/Nurutomo26)
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
