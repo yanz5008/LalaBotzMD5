@@ -85,8 +85,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Yanz5008/LalaBotzMD
-$ cd LaLaBotzMD
+$ git clone https://github.com/yanz5008/LalaBotzMD5
+$ cd LaLaBotzMD5
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
