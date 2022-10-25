@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig1 = 'https://wa.me/62895323263219?text=_Assalamualaikum+🙏🏻_'
+global.sig1 = 'https://wa.me/6285752235008?text=_Assalamualaikum+🙏🏻_'
 global.sig = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
@@ -51,23 +51,23 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '085752235008'
-global.povo = '085752235008'
-global.pgopay = '085752235008'
-global.ppulsa = '085752235008'
-global.ppulsa2 = '0895323263219'
+global.pdana = '087841150064'
+global.povo = '087841150064'
+global.pgopay = '087841150064'
+global.ppulsa = '087841150064'
+global.ppulsa2 = '6285752235008'
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895323263224'
-global.nomorown = '62895323263219'
+global.nomorbot = '087841150064'
+global.nomorown = '087841150064'
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895323263219', '乙モれ. ㉺', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['087841150064', 'Vesha', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ['6285752235008', 'འツ么れ', true] //Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ]
 global.mods = [] // Want some help?
