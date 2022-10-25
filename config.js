@@ -51,23 +51,23 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '087841150064' //Nomor dana atay gooay kalian
-global.povo = '087841150064' 
-global.pgopay = '087841150064'
-global.ppulsa = '087841150064' // Indosat : kalau gada diganti tanda - aja
-global.ppulsa2 = '6285752235008' // tri : kalau gada diganti tanda - aja
+global.pdana = '6285752235008' //Nomor dana atay gooay kalian
+global.povo = '6285752235008' 
+global.pgopay = '6285752235008'
+global.ppulsa = '6285752235008' // Indosat : kalau gada diganti tanda - aja
+global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '087841150064'
-global.nomorown = '087841150064' // nomor owner
+global.nomorbot = '6287841150064'
+global.nomorown = '6285752235008' // nomor owner
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['087841150064', 'Vesha', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6285752235008', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ['6285752235008', 'འツ么れ', true] //Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ]
 global.mods = [] // Want some help?
