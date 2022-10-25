@@ -22,7 +22,7 @@ Via GO-PAY / DANA/PULSA:
 • Dana: [${pdana}]
 
 Jika Minat Hubungi Owner:
-             Wa.me/62895323263219 (Owner)`
+             Wa.me/${nomorown} (Owner)`
 const sections = [
    {
 	title: `${htjava} SEWA :`,
