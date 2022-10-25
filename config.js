@@ -51,16 +51,16 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '087841150064'
-global.povo = '087841150064'
+global.pdana = '087841150064' //Nomor dana atay gooay kalian
+global.povo = '087841150064' 
 global.pgopay = '087841150064'
-global.ppulsa = '087841150064'
-global.ppulsa2 = '6285752235008'
+global.ppulsa = '087841150064' // Indosat : kalau gada diganti tanda - aja
+global.ppulsa2 = '6285752235008' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '087841150064'
-global.nomorown = '087841150064'
+global.nomorown = '087841150064' // nomor owner
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
 
