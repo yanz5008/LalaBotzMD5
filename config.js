@@ -55,11 +55,11 @@ global.pdana = '6285752235008' //Nomor dana atay gooay kalian
 global.povo = '6285752235008' 
 global.pgopay = '6285752235008'
 global.ppulsa = '6285752235008' // Indosat : kalau gada diganti tanda - aja
-global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
+global.ppulsa2 = '62895323263224' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287841150064'
+global.nomorbot = '62895323263224'
 global.nomorown = '6285752235008' // nomor owner
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
