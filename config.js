@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig1 = 'https://wa.me/6285607835238?text=_Assalamualaikum+🙏🏻_'
+global.sig1 = 'https://wa.me/6285752235008?text=_Assalamualaikum+🙏🏻_'
 global.sig = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.sgc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
@@ -51,23 +51,23 @@ global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285607835238' //Nomor dana atay gooay kalian
-global.povo = '6285607835238' 
-global.pgopay = '6285607835238'
-global.ppulsa = '6285607835238' // Indosat : kalau gada diganti tanda - aja
+global.pdana = '6285752235008' //Nomor dana atay gooay kalian
+global.povo = '6285752235008' 
+global.pgopay = '6285752235008'
+global.ppulsa = '6285752235008' // Indosat : kalau gada diganti tanda - aja
 global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285607835238'
-global.nomorown = '6285607835238' // nomor owner
+global.nomorbot = '62895323263224'
+global.nomorown = '6285752235008' // nomor owner
 global.namebot = 'Lala BOT'
 global.nameown = '乙モれ. ㉺'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285607835238', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['62895323263224', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ['6285752235008', 'Developer Bot', true] //Jangan di Ganti🚫
   ]
 global.mods = [] // Want some help?
