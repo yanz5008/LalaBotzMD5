@@ -1,5 +1,8 @@
 // Credits, jangan dihapus atau diubah!
 
+// Ingin berteman dengan saya? wa.me/6285752235008 (Zenz)
+// Follow Instagram @Yanz_5008
+
 // - - THANKS TO - -
 // • Allah SWT
 // • Nurutomo
